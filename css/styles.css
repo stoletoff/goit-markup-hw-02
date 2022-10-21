@@ -1,10 +1,4 @@
-/* Виділення основної палітри кольорів 
-Блакитний - #2196F3
-Чорний - #212121
-Сірий - #757575
-Білий - #FFFFFF
-F5F5F5
-*/
+/* Виділення основної палітри кольорів */
 :root {
     --primary-text-color:#757575;
     --primary-back-ground-color:#F5F5F5;
@@ -100,11 +94,6 @@ a {
     line-height: 1.875;
     letter-spacing: 0.06em;
 }
-/* .button:hover,
-.button:focus {
-    color:#ffffff;
-    background-color:var(--accent-color);
-} */
 
 /* Class Section */
 .section-title {
@@ -122,10 +111,6 @@ a {
     line-height: 1.15;
 }
 
-/* .feature-list .paragraph {
-    font-weight: 400;
-} */
-
 /* Comand-list */
 .comand-list .title {
     color:var(--secondary-text-color);
@@ -136,7 +121,6 @@ a {
 
 .comand-list .paragraph {
     font-size: 16px;
-    /* font-weight: 400; */
     line-height: 1.15;    
 }
 
@@ -211,7 +195,6 @@ a {
 
 .project-paragraph {
     font-size: 16px;
-    /* font-weight: 400; */
     line-height: 1.875;
 }
 
